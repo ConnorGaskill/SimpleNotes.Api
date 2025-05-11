@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNotes.Api", "SimpleNotes.Api\SimpleNotes.Api.csproj", "{BB9C65FE-893E-4D7E-BA49-FCC8C5729533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNotes.Tests", "SimpleNotes.Tests\SimpleNotes.Tests.csproj", "{4BE8AF73-3F48-4878-8708-D83D0250A9D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9C65FE-893E-4D7E-BA49-FCC8C5729533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9C65FE-893E-4D7E-BA49-FCC8C5729533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9C65FE-893E-4D7E-BA49-FCC8C5729533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9C65FE-893E-4D7E-BA49-FCC8C5729533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE8AF73-3F48-4878-8708-D83D0250A9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE8AF73-3F48-4878-8708-D83D0250A9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE8AF73-3F48-4878-8708-D83D0250A9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE8AF73-3F48-4878-8708-D83D0250A9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B05DC10-9781-46D2-96EF-0357EFDDC5CA}
+	EndGlobalSection
+EndGlobal

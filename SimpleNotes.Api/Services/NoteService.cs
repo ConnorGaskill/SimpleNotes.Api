@@ -8,7 +8,6 @@ namespace SimpleNotes.Api.Services
         private readonly List<Note> _notes = new();
         public Note Add(Note note)
         {
-            note.Id = _notes.Count()+1;
             _notes.Add(note);
             return note;
         }
